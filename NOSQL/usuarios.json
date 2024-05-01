@@ -1,0 +1,15 @@
+{
+    "_id": 1,
+    "nome": "Amanda Carvalheiro",
+    "idade": 26,
+    "data_nascimento": "1997-10-08",
+    "enderecos": [
+        {
+            "logradouro": "via Orlando Jose Scutti",
+            "numero": "123",
+            "bairro": "Park Imperador",
+            "cidade": "Ribeirão Preto"
+        }
+    ],
+    "interesses": ["futebol", "video game"]
+}
