@@ -7,5 +7,5 @@ Repositório para estudos de banco de dados relacionais e não relacionais. Curs
 ## NoSQL
 - Utilizando MongoDB: [https://www.mongodb.com/docs/manual/introduction]
 - MondoDB Atlas: [https://cloud.mongodb.com/]
-- Modelagem: [https://jsonformatter.curiousconvept.com]
+- Modelagem: [https://jsonformatter.curiousconcept.com]
 
